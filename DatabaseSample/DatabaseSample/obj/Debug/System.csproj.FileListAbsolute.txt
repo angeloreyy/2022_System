@@ -1,0 +1,80 @@
+D:\Users\Gelo\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.exe.config
+D:\Users\Gelo\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.exe
+D:\Users\Gelo\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.pdb
+D:\Users\Gelo\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\System.csproj.AssemblyReference.cache
+D:\Users\Gelo\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Login.resources
+D:\Users\Gelo\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Stock.resources
+D:\Users\Gelo\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Properties.Resources.resources
+D:\Users\Gelo\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Menu.resources
+D:\Users\Gelo\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\System.csproj.GenerateResource.cache
+D:\Users\Gelo\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\System.csproj.CoreCompileInputs.cache
+D:\Users\Gelo\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.exe
+D:\Users\Gelo\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.pdb
+C:\Users\Emmanuel Bacaling\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.exe.config
+C:\Users\Emmanuel Bacaling\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.exe
+C:\Users\Emmanuel Bacaling\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.pdb
+C:\Users\Emmanuel Bacaling\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\System.csproj.AssemblyReference.cache
+C:\Users\Emmanuel Bacaling\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Login.resources
+C:\Users\Emmanuel Bacaling\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Purchase.resources
+C:\Users\Emmanuel Bacaling\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Stock.resources
+C:\Users\Emmanuel Bacaling\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Properties.Resources.resources
+C:\Users\Emmanuel Bacaling\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Menu.resources
+C:\Users\Emmanuel Bacaling\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\System.csproj.GenerateResource.cache
+C:\Users\Emmanuel Bacaling\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\System.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel Bacaling\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.exe
+C:\Users\Emmanuel Bacaling\Downloads\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.pdb
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample(2)\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.exe.config
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample(2)\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.exe
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample(2)\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.pdb
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample(2)\DatabaseSample\DatabaseSample\obj\Debug\System.csproj.AssemblyReference.cache
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample(2)\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Login.resources
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample(2)\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Purchase.resources
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample(2)\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Stock.resources
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample(2)\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Properties.Resources.resources
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample(2)\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Menu.resources
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample(2)\DatabaseSample\DatabaseSample\obj\Debug\System.csproj.GenerateResource.cache
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample(2)\DatabaseSample\DatabaseSample\obj\Debug\System.csproj.CoreCompileInputs.cache
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample(2)\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.exe
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample(2)\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.pdb
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample\DatabaseSample\obj\Debug\System.csproj.AssemblyReference.cache
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Login.resources
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Stock.resources
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Menu.resources
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample\DatabaseSample\obj\Debug\System.csproj.GenerateResource.cache
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.exe
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.pdb
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.exe.config
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.exe
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.pdb
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Properties.Resources.resources
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample\DatabaseSample\obj\Debug\System.csproj.CoreCompileInputs.cache
+D:\Users\Gelo\Downloads\System Iteration\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Store.resources
+C:\Users\Emmanuel Bacaling\Desktop\DatabaseSample\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.exe.config
+C:\Users\Emmanuel Bacaling\Desktop\DatabaseSample\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.exe
+C:\Users\Emmanuel Bacaling\Desktop\DatabaseSample\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.pdb
+C:\Users\Emmanuel Bacaling\Desktop\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\System.csproj.AssemblyReference.cache
+C:\Users\Emmanuel Bacaling\Desktop\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Login.resources
+C:\Users\Emmanuel Bacaling\Desktop\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Store.resources
+C:\Users\Emmanuel Bacaling\Desktop\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Stock.resources
+C:\Users\Emmanuel Bacaling\Desktop\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Properties.Resources.resources
+C:\Users\Emmanuel Bacaling\Desktop\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Menu.resources
+C:\Users\Emmanuel Bacaling\Desktop\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\System.csproj.GenerateResource.cache
+C:\Users\Emmanuel Bacaling\Desktop\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\System.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel Bacaling\Desktop\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.exe
+C:\Users\Emmanuel Bacaling\Desktop\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.pdb
+C:\Users\Emmanuel Bacaling\Documents\DatabaseSample\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.exe.config
+C:\Users\Emmanuel Bacaling\Documents\DatabaseSample\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.exe
+C:\Users\Emmanuel Bacaling\Documents\DatabaseSample\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.pdb
+C:\Users\Emmanuel Bacaling\Documents\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\System.csproj.AssemblyReference.cache
+C:\Users\Emmanuel Bacaling\Documents\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Login.resources
+C:\Users\Emmanuel Bacaling\Documents\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Store.resources
+C:\Users\Emmanuel Bacaling\Documents\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Stock.resources
+C:\Users\Emmanuel Bacaling\Documents\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Properties.Resources.resources
+C:\Users\Emmanuel Bacaling\Documents\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Menu.resources
+C:\Users\Emmanuel Bacaling\Documents\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\System.csproj.GenerateResource.cache
+C:\Users\Emmanuel Bacaling\Documents\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\System.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel Bacaling\Documents\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.exe
+C:\Users\Emmanuel Bacaling\Documents\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.pdb
+C:\Users\Emmanuel Bacaling\Documents\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Register.resources
+C:\Users\Emmanuel Bacaling\Documents\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Receipt.resources
+C:\Users\Emmanuel Bacaling\Documents\DatabaseSample\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Sales.resources
